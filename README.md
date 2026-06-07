@@ -1,4 +1,4 @@
-# 🛍️ MohitPanier - Boutique en ligne
+# 🛍️ GROUPE4 - Boutique en ligne
 
 Projet e-commerce complet avec **React + TypeScript** (frontend) et **Django REST Framework** (backend), utilisant l'authentification JWT.
 
